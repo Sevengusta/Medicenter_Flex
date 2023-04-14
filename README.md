@@ -13,4 +13,4 @@ Também foram utilizados conceitos de responsivdade através do recurso CSS @med
 
 Disponível em:
 
-https://sevengusta.github.io/MediCenter_Flexbox/
+https://sevengusta.github.io/MediCenter_Flex/
